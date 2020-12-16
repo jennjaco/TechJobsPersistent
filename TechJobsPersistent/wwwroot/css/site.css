@@ -24,6 +24,20 @@ a {
   border-color: #1861ac;
 }
 
+.job-listing {
+    margin: 30px auto;
+    border: 1px solid #e4e4e4;
+    width: 80%;
+}
+
+    .job-listing td:first-child {
+        font-weight: bold;
+    }
+
+    .job-listing td:last-child {
+        width: 80%;
+    }
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
